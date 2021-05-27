@@ -1,0 +1,19 @@
+{
+    "main": {
+        "discord_token": "",
+        "mc_email": "",
+        "mc_password": "",
+        "mc_serverip": "",
+        "hub_command": ""
+    },
+    "anti_freecam": {
+        "lava_spawn": true,
+        "holding_items": [
+            383,
+            344,
+            332,
+            397
+        ],
+        "alert_channelID": ""
+    }
+}
